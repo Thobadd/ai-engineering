@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+
+# SSH and credentials (NEVER commit these!)
+*.pem
+*.key
+id_rsa
+id_ed25519
+.ssh/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (optional - only if your datasets are large)
+*.csv
+data/
+datasets/
