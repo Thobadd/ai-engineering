@@ -1,0 +1,1028 @@
+    1  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+    2  sudo apt install telegram
+    3  sudo apt install telegram-desktop-y
+    4  sudo snap install telegram-desktop
+    5  help
+    6  help install
+    7  clear
+    8  $ sudo apt install telegram-desktop
+    9  [200~do apt install telegram-desktop~
+   10  sudo snap install telegram-desktop
+   11  apt update
+   12  sudo apt install update
+   13  su-
+   14  su -
+   15  sudo -i
+   16  systemctl-hibernate
+   17  sudo apt ugrade
+   18  su -
+   19  sudo apt update && apt install firefox-esr
+   20  su i-
+   21  sudo apt update && sudo apt install firefox-esr
+   22  sudo passwd root
+   23  su -
+   24  sudo update-icon-caches /usr/share/icons/*
+   25  echo $XDG_CURRENT_DESKTOP
+   26  rm ~/.cache/icon-cache.kcache
+   27  kbuildsycoca5 --noincremental
+   28  rm -rf ~/.cache/plasmashell* ~/.cache/org.kde.dirmodel-cache
+   29  kquitapp5 plasmashell && kstart5 plasmashell > /dev/null 2>&1 &
+   30  rm ~/.cache/icon-cache.kcache && kbuildsycoca5 --noincremental
+   31  sudo apt update && sudo apt install --reinstall parrot-themes parrot-icons-maia
+   32  sudo apt update && sudo apt install --reinstall parrot-icons extra-icons-parrot
+   33  sudo systemctl hibernate
+   34  free -h
+   35  sudo fallocate -l 8G /swapfile
+   36  sudo chmod 600 /swapfile
+   37  sudo mkswap /swapfile
+   38  sudo swapon /swapfile
+   39  sudo rm /swapfile
+   40  sudo truncate -s 0 /swapfile
+   41  sudochattr +C /swapfile
+   42  sudo chattr +C /swapfile
+   43  sudo btrfs property set /swapfile compression none
+   44  sudo rm /swapfile
+   45  sudo btrfs filesystem mkswapfile --size 8g /swapfile
+   46  sudo swapon /swapfile
+   47  free -h
+   48  sudo systemctl hibernate
+   49  loginctl lock-session
+   50  unzip 9proxy-linux.zip -d ~/9proxy
+   51  ls
+   52  cd downloaads
+   53  cd Downloads
+   54  ls
+   55  unzip 9proxy-linux.zip -d ~/9proxy
+   56  unzip ~/Downloads/9proxy-linux.zip -d ~/9proxy
+   57  cd ..
+   58  unzip ~/Downloads/9proxy-linux.zip -d ~/9proxy
+   59  wget https://static.9proxy-cdn.net/download/latest/linux/9proxy-linux-debi
+   60  wget https://static.9proxy-cdn.net/download/latest/linux/9proxy-linux-debian-amd64.deb
+   61  sudo apt install ./9proxy-linux-debian-amd64.deb
+   62  sudo systemctl start 9proxyd.service
+   63  9proxy proxy -u
+   64  loginctl lock-session
+   65  systemctl hibernate
+   66  su -
+   67  systemctl hibernate
+   68  git https://github.com/Thobadd/cooking-ai.git
+   69  sudo apt update
+   70  sudo apt full-upgrade
+   71  sudo apt install git
+   72  git --version
+   73  git config --global user.name "Thobadd"
+   74  git config --blobal user.email "Thobad@pm.me"
+   75  git config --global user.name "Thobadd"
+   76  git config --global user.email "Thobad@pm.me"
+   77  git config --global user.name
+   78  git config --global user.email
+   79  git clone https://github.com/Thobadd/cooking-ai.git
+   80  sudo anonsurf stop
+   81  sudo systemctl stop tor
+   82  sudo anonsurf start
+   83  9proxy proxy -u
+   84  sudo anonsurf status
+   85  sudo apt update && sudo apt install parrot-pwn-tools
+   86  sudo apt install parrot-tools-full
+   87  sqlmap
+   88  wireshark
+   89  dpkg -l | grep 'parrot-tools'
+   90  sudo apt update && sudo apt install parrot-tools-full --install-recommends
+   91  sudo apt install parrot-pwn-tools parrot-tools-pwn parrot-tools-network parrot-tools-web parrot-tools-vuln parrot-tools-sniff parrot-tools-password parrot-tools-infogathering parrot-tools-maintain parrot-tools-forensics
+   92  sudo apt update && sudo apt install parrot-security
+   93  cat /etc/apt/sources.list.d/parrot.list
+   94  sudo apt update && sudo apt install parrot-meta-security
+   95  sudo apt update && sudo apt install parrot-tools
+   96  sudo parrot-upgrade
+   97  apt-cache search parrot- | grep security
+   98  apt-cache search parrot-tools
+   99  sudo apt install parrot-tools-pwn parrot-tools-infogathering parrot-tools-web parrot-tools-wireless parrot-tools-password parrot-tools-sniff parrot-tools-vuln parrot-tools-reversing parrot-tools-postexploit parrot-tools-forensics
+  100  sudo apt install nmap msfconsole aircrack-ng wireshark sqlmap john hydra burpsuite gobuster nikto hashcat beef-xss ghidra radare2 autopsy
+  101  gobuster
+  102  nikto
+  103  sudo apt install --install-recommends parrot-tools-full
+  104  metasploit
+  105  nmap
+  106  sudo apt update && sudo apt install nmap metasploit-framework aircrack-ng wireshark sqlmap john hydra burpsuite gobuster nikto hashcat beef-xss ghidra radare2 autopsy
+  107  sudo apt install parrot-pwn
+  108  which nmap msfconsole aircrack-ng sqlmap
+  109  msfconsole
+  110  sudo apt install parrot-security
+  111  sudo apt install parrot-tools-full --install-recommends
+  112  [200~ls /usr/bin
+  113  ~ls /usr/bin
+  114  ls /usr/bin
+  115  ls
+  116  9proxy proxy -u
+  117  sudo apt install spotify
+  118  curl -sS https://spotify.com | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  119  echo "deb http://spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+  120  curl -sS https://spotify.com | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  121  curl -sS https://download.spotify.com/debian/pubkey_C85668DF69375001.gpg | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  122  echo "deb http://spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+  123  flatpak install flathub com.spotify.Client
+  124  zphispher
+  125  sudo apt update && sudo apt install flatpak
+  126  sudo apt install flatpak
+  127  flatpak remote-add --if-not-exists flathub https://flathub.org
+  128  flatpak install flathub com.spotify.Client
+  129  sudo anonsurf stop
+  130  flatpak update
+  131  flatpak install flathub com.spotify.Client -y
+  132  flatpak remote-delete flathub
+  133  flatpak remote-add --if-not-exists flathub https://flathub.org
+  134  sudo pkill flatpak
+  135  sudo anonsurf stop
+  136  flatpak remote-delete flathub
+  137  flatpak remote-add --if-not-exists flathub https://flathub.org
+  138  flatpak remote-delete flathub
+  139  flatpak remote-add --if-not-exists flathub https://flathub.org
+  140  flatpak remote-delete flathub
+  141  flatpak remote-add --if-not-exists flathub https://flathub.org
+  142  flatpak install flathub com.spotify.Client -y
+  143  sudo anonsurf stop
+  144  sudo flatpak remote-delete flathub
+  145  sudo flatpak remote-add --if-not-exists flathub https://flathub.org
+  146  flatpak install flathub com.spotify.Client -y
+  147  flatpak remote-delete flathub
+  148  flatpak remote-add --if-not-exists flathub https://flathub.org
+  149  flatpak remote-delete flathub
+  150  flatpak remote-add --if-not-exists flathub https://flathub.org
+  151  clear
+  152  flatpak remote-delete flathub
+  153  flatpak remote-add --if-not-exists flathub https://flathub.org
+  154  sudo apt install --reinstall flatpak-webapp-manager && flatpak remote-add --if-not-exists flathub https://flathub.org
+  155  flatpak remote-delete flathub
+  156  flatpak remote-add --if-not-exists flathub https://flathub.org
+  157  sudo rm /etc/apt/sources.list.d/spotify.list
+  158  sudo rm /etc/apt/trusted.gpg.d/spotify.gpg
+  159  curl -sS https://spotify.com | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  160  sudo rm /etc/apt/sources.list.d/spotify.list
+  161  sudo rm /etc/apt/trusted.gpg.d/spotify.gpg
+  162  sudo apt update
+  163  ping google.com
+  164  sudo nano /etc/apt/sources.list.d/parrot.list
+  165  sudo apt update
+  166  sudo nano /etc/apt/sources.list.d/parrot.list
+  167  sudo apt update
+  168  echo "deb https://parrot.sh rolling main contrib non-free" | sudo tee /etc/apt/sources.list.d/parrot.list
+  169  sudo apt update
+  170  cat /etc/apt/sources.list.d/parrot.list
+  171  sudo nano /etc/apt/sources.list.d/parrot.list
+  172  sudo apt update
+  173  sudo apt -o Acquire::ForceIPv4=true update
+  174  cat /etc/apt/source.list.d/parrot.list
+  175  cat /etc/apt/sources.list.d/parrot.list
+  176  sudo nano /etc/apt/sources.list.d/parrot.list
+  177  sudo apt -o Acquire::ForceIPv4=true update
+  178  curl -4 -I https://deb.parrotsec.org/parrot/dists/rolling/Release
+  179  curl -4 -I https://deb.parrotsec.org/parrot/dists/lory/Release
+  180  sudo nano /etc/apt/sources.list.d/parrot.list
+  181  sudo apt -o Acquire::ForceIPv4=true update
+  182  flatpak install flathub com.spotify.Client
+  183  flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+  184  flatpak install flathub com.spotify.Client
+  185  flatpak uninstall com.spotify.Client --delete-data
+  186  sudo rm -rf /var/tmp/flatpak-*
+  187  rm -rf ~/.cache/flatpak
+  188  rm -rf ~/.local/share/flatpak/repo/tmp
+  189  flatpak repair --user
+  190  sudo flatpak repair --system
+  191  flatpak install flathub com.spotify.Client
+  192  sudo flatpak remote-delete --force flathub
+  193  flatpak remote-delete --force --user flathub
+  194  sudo flatpak remote-add flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  195  curl -4 -sS https://download.spotify.com/debian/pubkey_6224F9941A8AA6D1.gpg | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  196  ping -4 8.8.8.8
+  197  echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf
+  198  echo "nameserver 1.1.1.1" >> sudo tee /etc/resolv.conf
+  199  curl -4 -I https://google.com
+  200  curl -4 -sS https://download.spotify.com/debian/pubkey_6224F9941A8AA6D1.gpg | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  201  echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+  202  sudo apt -o Acquire::ForceIPv4=true update && sudo apt install spotify-client
+  203  sudo rm /etc/apt/trusted.gpg.d/spotify.gpg
+  204  sudo gpg --no-default-keyring --keyring /etc/apt/trusted.gpg.d/spotify.gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E1096BCBFF6D418796DE78515384CE82BA52C83A
+  205  sudo apt install dirmngr -y
+  206  sudo gpg --no-default-keyring --keyring /etc/apt/trusted.gpg.d/spotify.gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E1096BCBFF6D418796DE78515384CE82BA52C83A
+  207  sudo mkdir -p /root/.gnupg
+  208  sudo chmod 700 /root/.gnupg
+  209  sudo dirmngr --daemon --homedir /root/.gnupg
+  210  sudo gpg --no-default-keyring --keyring /etc/apt/trusted.gpg.d/spotify.gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E1096BCBFF6D418796DE78515384CE82BA52C83A
+  211  sudo apt -o Acquire::ForceIPv4=true update && sudo apt install spotify-client
+  212  sudo rm /etc/apt/trusted.gpg.d/spotify.gpg
+  213  sudo gpg --homedir /root/.gnupg --export E1096BCBFF6D418796DE78515384CE82BA52C83A | sudo tee /etc/apt/trusted.gpg.d/spotify.gpg > /dev/null
+  214  file /etc/apt/trusted.gpg.d/spotify.gpg
+  215  sudo gpg --homedir /root/.gnupg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E1096BCBFF6D418796DE78515384CE82BA52C83A
+  216  sudo gpg --homedir /root/.gnupg --export E1096BCBFF6D418796DE78515384CE82BA52C83A | sudo tee /etc/apt/trusted.gpg.d/spotify.gpg > /dev/null
+  217  file /etc/apt/trusted.gpg.d/spotify.gpg
+  218  sudo apt -o Acquire::ForceIPv4=true update && sudo apt install spotify-client
+  219  sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  220  curl -4 -I https://dl.flathub.org
+  221  sudo anonsurf stop
+  222  sudo anonsurf restart
+  223  sudo anonsurf start
+  224  sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+  225  flatpak --version
+  226  flatpak remotes
+  227  flatpak search vlc
+  228  spotify
+  229  nano ~/change-id.sh
+  230  crontab -e
+  231  watch -n 2 sensors
+  232  setoolkit
+  233  su -
+  234  sudo grep anonsurf /var/log/syslog
+  235  sudo journalctl -u cron | tail -20
+  236  sudo visudo
+  237  crontab -e
+  238  sudo journalctl -u cron | tall -10
+  239  sudo journalctl -u cron | tail -10
+  240  curl -s --socks5-hostame 127.0.0.1:9050 https://check.torproject.org/api/ip
+  241  curl -s --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip
+  242  curl -s --socks5-hostame 127.0.0.1:9050 https://check.torproject.org/api/ip
+  243  curl -s --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip
+  244  sudo anonsurf stop
+  245  sudo anonsurf start
+  246  setool
+  247  setoolkit
+  248  su -
+  249  su
+  250  sudo anonsurf stop
+  251  sudo anonsurf start
+  252  sudo anonsurf stop
+  253  sudo anonsurf start
+  254  sudo anonsurf stop
+  255  sudo anonsurf start
+  256  sudo anonsurf stop
+  257  sudo anonsurf start
+  258  sudo anonsurf stop
+  259  sudo anonsurf start
+  260  sudo anonsurf stop
+  261  sudo anonsurf start
+  262  sudo nano /etc/tor/torrc
+  263  sudo anonsurf stop
+  264  sudo anonsurf start
+  265  cat /etc/tor/torrc | grep -A2 ExitNodes
+  266  sudo nano /etc/tor/torrc
+  267  cat /etc/tor/torrc | grep -A2 ExitNodes
+  268  sudo anonsurf stop
+  269  sudo systemctl restart tor@default
+  270  sudo anonsurf start
+  271  curl -s --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip
+  272  curl -s https://ipinfo.io/109.70.100.3
+  273  echo -e "\nExitNodes {us}\nStrictNodes 1" | sudo tee -a /etc/tor/torrc
+  274  sudo anonsurf stop
+  275  sudo systemctl restart tor@default
+  276  sudo anonsurf start
+  277  curl -s https://ipinfo.io/$(curl -s --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip | grep -oP '(?<="IP":")\d+\.\d+\.\d+\.\d+')
+  278  grep -n "ExitNodes" /etc/tor/torrc
+  279  sudo bash -c 'echo -e "\nExitNodes {us}\nStrictNodes 1" >> /etc/tor/torrc'
+  280  grep -n "ExitNodes" /etc/tor/torrc
+  281  sudo anonsurf stop
+  282  sudo systemctl restart tor@default
+  283  sudo anonsurf start
+  284  curl -s https://ipinfo.io/$(curl -s --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip | grep -oP '(?<="IP":")\d+\.\d+\.\d+\.\d+')
+  285  curl -s --socks5-hostname 127.0.0.1:9050 https://ipapi.co/json/ | grep -E "ip|country"
+  286  sudo tor --verify-config 2>&1 | head -20
+  287  grep -r "ExitNodes" /etc/tor/
+  288  grep -n "StrictNodes" /etc/tor/torrc
+  289  sudo bash -c 'echo -e "\nExitNodes {us}\nStrictNodes 1" >> /etc/tor/torrc'
+  290  grep -n "ExitNodes\|StrictNodes" /etc/tor/torrc
+  291  sudo anonsurf stop
+  292  sudo systemctl restart tor@default
+  293  sudo anonsurf start
+  294  curl -s --socks5-hostname 127.0.0.1:9050 https://ipapi.co/json/ | grep -E "ip|country_name"
+  295  find /etc -name "*.conf" | xargs grep -l "tor" 2>/dev/null
+  296  cat /usr/share/anonsurf/config
+  297  ls /etc/tor/
+  298  grep -n "ExitNodes\|StrictNodes" /etc/tor/torrc.bak
+  299  find / -name "anonsurf" -type f 2>/dev/null
+  300  cat /usr/bin/anonsurf | grep -i "torrc\|config\|ExitNodes"
+  301  strings /usr/bin/anonsurf | grep -i "torrc\|config"
+  302  ls /etc/anonsurf/
+  303  cat /etc/anonsurf/anonsurf.cfg
+  304  cat /etc/tor/torrc | tail -20
+  305  sudo anonsurf stop
+  306  sudo bash -c 'echo -e "\nExitNodes {us}\nStrictNodes 1" >> /etc/tor/torrc'
+  307  sudo chattr +i /etc/tor/torrc
+  308  sudo anonsurf start
+  309  grep -n "ExitNodes\|StrictNodes" /etc/tor/torrc
+  310  curl -s --socks5-hostname 127.0.0.1:9050 https://ipapi.co/json/ | grep -E "ip|country_name"
+  311  sudo anonsurf stop
+  312  sudo anonsurf start
+  313  9proxy proxy -u
+  314  clear
+  315  ls
+  316  cd cooking-ai
+  317  ls
+  318  tree cooking-ai
+  319  sudo apt install tree
+  320  tree cooking-ai
+  321  tree
+  322  ls
+  323  go run ./cmd/server
+  324  .env
+  325  code .env
+  326  code .env.txt
+  327  cat .env.txt
+  328  code .env
+  329  nano .env
+  330  code .env
+  331  nano .env
+  332  echo ".env" >> .gitignore
+  333  git rm --cached .env
+  334  git add .gitignore
+  335  git commit -m "ignore .env file"
+  336  git push
+  337  sudo anonsurf stop
+  338  sudo anonsurf start
+  339  sudo anonsurf stop
+  340  sudo anonsurf start
+  341  balooctl disable
+  342  balooctl purge
+  343  akonadictl stop
+  344  mkdir -p ~/.config
+  345  echo '[%General]
+  346  StartServer=false' > ~/.config/akonadirc
+  347  akonadictl status
+  348  sudo anonsurf stop
+  349  sudo anonsurf start
+  350  su-
+  351  su
+  352  PROFILE=$(ls ~/.local/share/firefoxpwa/profiles/ | head -1)
+  353  mkdir -p ~/.local/share/firefoxpwa/profiles/$PROFILE/chrome
+  354  echo ':root { -moz-appearance: auto !important; }' > ~/.local/share/firefoxpwa/profiles/$PROFILE/chrome/userChrome.css
+  355  echo 'user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);' >> ~/.local/share/firefoxpwa/profiles/$PROFILE/user.js
+  356  ls ~/.local/share/firefoxpwa/profiles/
+  357  for PROFILE in ~/.local/share/firefoxpwa/profiles/*/; do   mkdir -p "$PROFILE/chrome";   echo ':root { -moz-appearance: auto !important; }' > "$PROFILE/chrome/userChrome.css";   echo 'user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);' >> "$PROFILE/user.js"; done
+  358  cat ~/.local/share/firefoxpwa/profiles/01KQZRT526DA0MA8W6CF3HT95Q/chrome/userChrome.css
+  359  cat ~/.local/share/firefoxpwa/profiles/01KQZRT526DA0MA8W6CF3HT95Q/user.js
+  360  find ~/.local/share/firefoxpwa/ -name "prefs.js" 2>/dev/null
+  361  for PREFS in ~/.local/share/firefoxpwa/profiles/*/prefs.js; do   echo 'user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);' >> "$PREFS";   echo 'user_pref("browser.tabs.inTitlebar", 0);' >> "$PREFS"; done
+  362  sudo anonsurf stop
+  363  spotify
+  364  sudo anonsurf start
+  365  sudo anonsurf stop
+  366  sudo anonsurf start
+  367  sudo anonsurf start
+  368  iscpu | grep "model name"
+  369  lscpu | grep "Model name"
+  370  sudo anonsurf stop
+  371  flatpak install flathub com.obsproject.Studio.Plugin.V4L2Sink -y
+  372  sudo apt install v4l2loopback-dkms -y
+  373  apt-cache search v4l2
+  374  sudo apt install v4l2loopback-dkms v4l2loopback-modules -y
+  375  sudo apt install dkms git build-essential linux-headers-$(uname -r) -y
+  376  git clone https://github.com/umlaeute/v4l2loopback.git
+  377  cd v4l2loopback
+  378  make && sudo make install
+  379  sudo modprobe v4l2loopback devices=1 video_nr=10 card_label="OBS Virtual Camera" exclusive_caps=1
+  380  ls /dev/video*
+  381  flatpak run com.obsproject.Studio
+  382  pip install Pillow==9.5.0
+  383  cd ~/Rope
+  384  source venv/bin/activate
+  385  pip install Pillow==9.5.0
+  386  sed -i "s/Image.ANTIALIAS/Image.LANCZOS/g" ~/Rope/rope/GUIElements.py
+  387  grep -n "ANTIALIAS\|LANCZOS" ~/Rope/rope/GUIElements.py
+  388  python3 Rope.py
+  389  cd cd ~/Rope
+  390  source venv/bin/activate
+  391  clear
+  392  cd ~/Rope
+  393  source venv/bin/activate
+  394  python3 Rope.py
+  395  cd ~/Rope
+  396  source venv/bin/activate
+  397  pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+  398  python3 Rope.py
+  399  cd ~/Rope
+  400  source venv/bin/activate
+  401  pip install opencv-python
+  402  pip install opencv-python numpy pillow insightface onnxruntime
+  403  python3 Rope.py
+  404  [200~AssertionError: Torch not compiled with CUDA enabled~
+  405  AssertionError: Torch not compiled with CUDA enabled
+  406  sed -i "s/device='cuda:0'/device='cpu'/g" ~/Rope/rope/Models.py
+  407  sed -i "s/CUDAExecutionProvider/CPUExecutionProvider/g" ~/Rope/rope/Models.py
+  408  python3 Rope.py
+  409  wget https://go.skype.com/skypeforlinux-64.deb
+  410  sudo dpkg -i skypeforlinux-64.deb
+  411  rm skypeforlinux-64.deb
+  412  wget -O skypeforlinux-64.deb "https://go.skype.com/skypeforlinux-64.deb"
+  413  ls -lh skypeforlinux-64.deb
+  414  wget -O skypeforlinux-64.deb "https://go.skype.com/skypeforlinux-64.deb"
+  415  wget -O discord.deb "https://discord.com/api/download?platform=linux&format=deb"
+  416  sudo dpkg -i discord.deb
+  417  sudo apt install -f -y
+  418  discord --version
+  419  # Close Rope first, then:
+  420  cd ~/Rope
+  421  source venv/bin/activate
+  422  python3 Rope.py
+  423  git clone https://github.com/Hillobar/Rope.git
+  424  cd Rope
+  425  python3 -m venv venv
+  426  sourcr venv/bin/activate
+  427  source venv/bin/activate
+  428  pip install -r requirement.txt
+  429  pip install -r requirements.txt
+  430  python3 Rope.py
+  431  sudo apt install obs-studio -y
+  432  sudo apt install software-properties-common -y
+  433  sudo add-apt-repository ppa:obsproject/obs-studio -y
+  434  sudo apt install software-properties-common -y
+  435  sudo add-apt-repository ppa:obsproject/obs-studio -y
+  436  deactivate
+  437  sudo apt update
+  438  sudo apt install flatpak -y
+  439  flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+  440  flatpak install flathub com.obsproject.Studio -y
+  441  flatpak run com.obsproject.Studio
+  442  python --version
+  443  flatpak run com.obsproject.Studio --version
+  444  sudo modprobe v4l2loopback devices=1 video_nr=10 card_label="OBS Virtual Camera" exclusive_caps=1
+  445  sudo apt install linux-headers-$(uname -r) -y
+  446  sudo apt install build-essential dkms git -y
+  447  git clone https://github.com/umlaeute/v4l2loopback.git
+  448  cd v4l2loopback
+  449  make && sudo make install
+  450  sudo depmod -a
+  451  ls /dev/video*
+  452  sudo modprobe -r v4l2loopback
+  453  sudo modprobe v4l2loopback devices=1 video_nr=10 card_label="OBS Virtual Camera" exclusive_caps=1
+  454  ls /dev/video*
+  455  flatpak run com.obsproject.Studio
+  456  cd ~
+  457  rm -rf ~/Rope
+  458  git clone https://github.com/Hillobar/Rope.git --branch Silverscreen
+  459  git ls-remote --heads https://github.com/Hillobar/Rope.git
+  460  git clone https://github.com/Hillobar/Rope.git
+  461  └──╼cd Rope
+  462  cd Rope
+  463  python3 -m venv venv
+  464  source venv/bin/activate
+  465  pip install -r requirements.txt
+  466  pip install numpy opencv-python onnxruntime insightface customtkinter pillow
+  467  pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+  468  pip install numpy opencv-python onnxruntime insightface customtkinter pillow
+  469  pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+  470  sed -i "s/Image.ANTIALIAS/Image.LANCZOS/g" ~/Rope/rope/GUIElements.py
+  471  sed -i "s/device='cuda:0'/device='cpu'/g" ~/Rope/rope/Models.py
+  472  sed -i "s/CUDAExecutionProvider/CPUExecutionProvider/g" ~/Rope/rope/Models.py
+  473  python3 Rope.py
+  474  rm -rf ~/Rope
+  475  deactivate
+  476  rm -rf ~/Rope
+  477  ls ~
+  478  sudo anonsurf stop
+  479  sudo anonsurf start
+  480  sudo anonsurf stop
+  481  clear
+  482  pactl list cards short
+  483  pulseaudio -k && pulseaudio --start
+  484  systemctl --user restart pipewire pipewire-pulse
+  485  pactl list sinks short
+  486  sudo systemctl restart bluetooth
+  487  pactl set-sink-mute @DEFAULT_SINK@ 0
+  488  mkdir -p ~/.config/pipewire/pipewire-pulse.conf.d/
+  489  nano ~/.config/pipewire/pipewire-pulse.conf.d/disable-autmute.conf
+  490  systemctl --user restart pipewire pipewire-pulse
+  491  pactl list cards
+  492  output:hdmi-surround-extra2+input:analog-stereo
+  493  pactl list cards short
+  494  pactl set-card-profile 80 a2dp-sink
+  495  pactl list cards | grep -A 20 "bluez_card" | grep "profile"
+  496  pactl set-card-profile 80 a2dp-sink
+  497  echo 'SUBSYSTEM=="sound", ACTION=="change", KERNEL=="card*", ATTR{id}=="bluez*", RUN+="/usr/bin/pactl set-card-profile 80 a2dp-sink"' | sudo tee /etc/udev/rules.d/99-bluetooth-a2dp.rules
+  498  sudo udevadm control --reload-rules
+  499  mkdir -p ~/.config/wireplumber/bluetooth.lua.d/
+  500  nano ~/.config/wireplumber/bluetooth.lua.d/50-bluez-config.lua
+  501  systemctl --user restart wireplumber
+  502  pactl set-card-profile 80 a2dp-sink
+  503  pactl list cards short
+  504  sudo systemctl start bluetooth
+  505  bluetoothctl connect F4:4E:FC:DD:C8:CB
+  506  pactl list cards short
+  507  pactl set-card-profile bluez_card.F4_4E_FC_DD_C8_CB a2dp-sink
+  508  nano ~/.local/bin/zealot-fix.sh
+  509  mkdir -p ~/.local/bin
+  510  nano ~/.local/bin/zealot-fix.sh
+  511  chmod +x ~/.local/bin/zealot-fix.sh
+  512  bash ~/.local/bin/zealot-fix.sh &
+  513  cat > ~/.local/bin/zealot-fix.sh << 'EOF'
+  514  #!/bin/bash
+  515  while true; do
+  516    pactl set-card-profile bluez_card.F4_4E_FC_DD_C8_CB a2dp-sink 2>/dev/null
+  517    sleep 5
+  518  done
+  519  EOF
+  520  chmod +x ~/.local/bin/zealot-fix.sh && bash ~/.local/bin/zealot-fix.sh &
+  521  sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
+  522  nano ~/.config/autostart/spotify-fix.desktop
+  523  spotify --disable-gpu
+  524  pkill spotify
+  525  sleep 2
+  526  spotify --disable-gpu &
+  527  renice -n -5 $(pgrep spotify)
+  528  sudo renice -n -5 $(pgrep spotify)
+  529  cat > ~/.local/bin/spotify-priority.sh << 'EOF'
+  530  #!/bin/bash
+  531  while true; do
+  532    sudo renice -n -5 $(pgrep spotify) 2>/dev/null
+  533    sleep 10
+  534  done
+  535  EOF
+  536  chmod +x ~/.local/bin/spotify-priority.sh
+  537  sudo visudo
+  538  bash ~/.local/bin/spotify-priority.sh &
+  539  sudo snap remove spotify
+  540  sudo apt remove spotify-client
+  541  pkill -f spotify-priority.sh
+  542  pkill -f zealot-fix.sh
+  543  pkill -f spotify-priority.sh
+  544  pkill -f spotify
+  545  sudo anonsurf start
+  546  playerctl loop Playlist
+  547  sudo apt install playerctl
+  548  sudo apt update && sudo apt install playerctl -y
+  549  wget https://github.com/altdesktop/playerctl/releases/download/v2.4.1/playerctl-2.4.1_amd64.deb
+  550  sudo dpkg -i playerctl-2.4.1_amd64.deb
+  551  playerctl loop Playlist
+  552  sudo anonsurf  stop
+  553  spotify
+  554  cat > ~/.local/bin/zealot-fix.sh << 'EOF'
+  555  #!/bin/bash
+  556  while true; do
+  557    pactl set-card-profile bluez_card.F4_4E_FC_DD_C8_CB a2dp-sink 2>/dev/null
+  558    sleep 5
+  559  done
+  560  EOF
+  561  sudo anonsurf start
+  562  sudo anonsurf stop
+  563  zip -r cooking-ai.zip . -x "*.env"
+  564  rm cooking-ai.zip
+  565  find ~ -name "go.mod" 2>/dev/null
+  566  cd cooking-ai
+  567  zip -r cooking-ai.zip . -x "*.env"
+  568  cat /home/thobad/cooking-ai/.env
+  569  curl -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBYDPlnm1YkeWjduWS3B_RglAlfriG6rV0" -H "Content-Type: application/json" -d '{"contents":[{"parts":[{"text":"Hello"}]}]}'
+  570  nano /home/thobad/cooking-ai/.env
+  571  curl -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBYDPlnm1YkeWjduWS3B_RglAlfriG6rV0" -H "Content-Type: application/json" -d '{"contents":[{"parts":[{"text":"Hello"}]}]}'
+  572  nano /home/thobad/cooking-ai/.env
+  573  go run ./cmd/server
+  574  cd cooking-ai
+  575  go run ./cmd/server
+  576  git add .
+  577  git commit -m "Rename app to ParrotSauce"
+  578  git push
+  579  cat cat ~/.ssh/id_ed25519.pub
+  580  cat ~/.ssh/id_ed25519.pub
+  581  ssh-keygen -t ed25519 -C "Thobad@pm.me"
+  582  cat /home/thobad/.ssh/id_ed25519.pub
+  583  git remote set-url origin git@github.com:thobad/cooking-ai.git
+  584  ssh -T git@github.com
+  585  git push
+  586  git remote -v
+  587  git remote set-url origin git@github.com:Thobadd/cooking-ai.git
+  588  git push
+  589  git remote set-url origin git@github.com:Thobadd/cooking-ai.git
+  590  git push
+  591  git add .
+  592  git commit -m "ParrotSauce"
+  593  git push
+  594  sudo anonsurf stop
+  595  sudo nano /etc/systemd/sleep.conf
+  596  sudo nano /etc/polkit-1/localauthority/50-local.d/hibernate.pkla
+  597  sudo mkdir -p /etc/polkit-1/localauthority/50-local.d
+  598  sudo nano /etc/polkit-1/localauthority/50-local.d/hibernate.pkla
+  599  swapon --show
+  600  sudo systemctl hibernate --dry-run
+  601  cat /etc/systemd/sleep.conf
+  602  findmnt -no UUID -T /swapfile
+  603  sudo filefrag -v /swapfile | awk 'NR==4{print $4}' | tr -d '.'
+  604  sudo nano /etc/default/grub
+  605  sudo update-grub
+  606  sudo reboot
+  607  grep GRUB_CMDLINE_LINUX_DEFAULT /etc/default/grub
+  608  cat /proc/cmdline
+  609  sudo systemctl status systemd-logind | grep -i hibern
+  610  busctl call org.freedesktop.login1 /org/freedesktop/login1 org.freedesktop.login1.Manager CanHibernate
+  611  sudo systemd-analyze hibernate-location
+  612  systemd-detect-virt
+  613  cat /sys/power/state
+  614  cat /sys/power/disk
+  615  sudo cat /etc/crypttab
+  616  cat /etc/initramfs-tools/conf.d/resume
+  617  echo "RESUME=UUID=59f35708-7ae9-4092-96ec-a9d6ca8c6045 resume_offset=7490631" | sudo tee /etc/initramfs-tools/conf.d/resume
+  618  sudo update-initramfs -u -k all
+  619  echo "RESUME=/swapfile" | sudo tee /etc/initramfs-tools/conf.d/resume
+  620  sudo update-initramfs -u -k all
+  621  echo "RESUME=UUID=59f35708-7ae9-4092-96ec-a9d6ca8c6045" | sudo tee /etc/initramfs-tools/conf.d/resume
+  622  sudo update-initramfs -u -k all
+  623  sudo anonsurf stop
+  624  ls
+  625  cd pictures
+  626  ls
+  627  cd pictures
+  628  cd Pictures
+  629  ls
+  630  cd Screenshots
+  631  convert input.jpg output.png
+  632  ls
+  633  convert "TikTok lens.jpg" output.png
+  634  exit
+  635  sudo apt update
+  636  sudo apt install wine wine64 winetricks -y
+  637  sudo apt install wine winetricks
+  638  sudo dpkg --add-architecture i386
+  639  sudo mkdir -pm755 /etc/apt/keyrings
+  640  wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+  641  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+  642  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+  643  sudo apt update
+  644  sudo apt install --install-recommends winehq-stable
+  645  sudo apt install libc6:i386
+  646  sudo apt install libcrypt1:i386
+  647  sudo apt install virtualbox
+  648  uname -m
+  649  sudo wget -O /etc/apt/keyrings/oracle-virtualbox.asc https://www.virtualbox.org/download/oracle_vbox_2016.asc
+  650  echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/oracle-virtualbox.asc] https://download.virtualbox.org/virtualbox/debian bookworm contrib" | sudo tee /etc/apt/sources.list.d/virtualbox.list
+  651  sudo apt update && sudo apt install virtualbox-7.0
+  652  wget https://download.virtualbox.org/virtualbox/7.0.14/virtualbox-7.0_7.0.14-161095~Debian~bookworm_amd64.deb
+  653  sudo dpkg -i virtualbox-7.0_7.0.14-161095~Debian~bookworm_amd64.deb
+  654  sudo apt --fix-broken install
+  655  nsudo apt install libvpx7
+  656  sudo apt install libvpx7
+  657  wget http://ftp.debian.org/debian/pool/main/libv/libvpx/libvpx7_1.12.0-1_amd64.deb
+  658  sudo dpkg -i libvpx7_1.12.0-1_amd64.deb
+  659  wget http://security.debian.org/debian-security/pool/updates/main/libv/libvpx/libvpx7_1.12.0-1+deb12u5_amd64.deb
+  660  sudo dpkg -i libvpx7_1.12.0-1+deb12u5_amd64.deb
+  661  sudo dpkg -i virtualbox-7.0_7.0.14-161095~Debian~bookworm_amd64.deb
+  662  sudo apt --fix-broken install
+  663  virtualbox --version
+  664  ls
+  665  sudo anonsurf stop
+  666  nproc
+  667  sudo apt install linux-headers-$(uname -r)
+  668  sudo /sbin/vboxconfig
+  669  sudo modprobe vboxdrv
+  670  sudo apt install linux-headers-$(uname -r) dkms build-essential
+  671  sudo /sbin/vboxconfig
+  672  sudo cat /var/log/vbox-setup.log
+  673  sudo apt remove virtualbox-7.0
+  674  sudo apt autoremove
+  675  ping -c 3 google.com
+  676  sudo apt install realtek-rtl8814au-dkms realtek-rtl8188eus-dkms realtek-rtl88xxau-dkms
+  677  sudo apt update
+  678  sudo apt install realtek-rtl8814au-dkms realtek-rtl8188eus-dkms realtek-rtl88xxau-dkms
+  679  sudo apt install -t lory realtek-rtl8814au-dkms realtek-rtl8188eus-dkms realtek-rtl88xxau-dkms
+  680  cat /etc/apt/sources.list.d/parrot.list
+  681  ls /etc/apt/sources.list.d/
+  682  sudo apt update && sudo apt search realtek-rtl
+  683  sudo apt install --reinstall realtek-rtl8188eus-dkms
+  684  apt-cache show realtek-rtl8814au-dkms
+  685  apt-cache show realtek-rtl88xxau-dkms
+  686  sudo apt install firmware-realtek
+  687  dpkg -l | grep virtualbox
+  688  sudo dpkg --remove --force-remove-reinstreq virtualbox-7.0
+  689  dpkg -l | grep virtualbox
+  690  sudo dpkg --purge virtualbox-7.0
+  691  dpkg -l | grep virtualbox
+  692  wget https://download.virtualbox.org/virtualbox/7.1.6/virtualbox-7.1_7.1.6-167084~Debian~bookworm_amd64.deb
+  693  sudo dpkg -i virtualbox-7.1_7.1.6-167084~Debian~bookworm_amd64.deb
+  694  sudo /sbin/vboxconfig
+  695  wget https://download.virtualbox.org/virtualbox/7.1.6/virtualbox-7.1_7.1.6-167084~Debian~bookworm_amd64.deb
+  696  sudo dpkg -i virtualbox-7.1_7.1.6-167084~Debian~bookworm_amd64.deb
+  697  sudo apt install libgtk2.0-0
+  698  sudo apt install libgtk2.0-0t64
+  699  sudo dpkg --purge virtualbox-7.1
+  700  sudo rm /etc/apt/sources.list.d/winehq-bookworm.sources
+  701  sudo rm /etc/apt/keyrings/winehq-archive.key
+  702  sudo rm /etc/apt/sources.list.d/virtualbox.list
+  703  sudo rm /etc/apt/keyrings/oracle-virtualbox.asc
+  704  rm ~/virtualbox-7.1_7.1.6-167084~Debian~bookworm_amd64.deb
+  705  rm ~/virtualbox-7.0_7.0.14-161095~Debian~bookworm_amd64.deb
+  706  rm ~/libvpx7_1.12.0-1+deb12u5_amd64.deb
+  707  sudo apt update
+  708  sudo apt install gnome-boxes
+  709  sudo apt search boxes
+  710  sudo apt install qemu-kvm virt-manager
+  711  sudo apt search qemu | head -20
+  712  sudo anonsurf stop
+  713  sudo systemctl hibernate
+  714  swapon --show
+  715  free -h
+  716  findmnt -no UUID -T /swapfile
+  717  sudo filefrag -v /swapfile | awk 'NR==4{print $4}' | tr -d '.'
+  718  sudo nano /etc/default/grub
+  719  grep GRUB_CMDLINE_LINUX_DEFAULT /etc/default/grub
+  720  sudo update-initramfs -u -k all
+  721  sudo systemctl hibernate
+  722  cat /sys/power/resume
+  723  cat /sys/power/resume_offset
+  724  ls /dev/mapper/
+  725  lsblk
+  726  sudo nano /etc/initramfs-tools/conf.d/resume
+  727  sudo update-initramfs -u -k all
+  728  sudo reboot
+  729  sudo systemctl hibernate
+  730  swapon --show
+  731  cat /sys/power/resume
+  732  cat /sys/power/resume_offset
+  733  sudo dmesg | grep -i "resume\|hibernate\|swap" | tail -20
+  734  sudo nano /etc/default/grub
+  735  sudo sed -i 's/resume=UUID=59f35708-7ae9-4092-96ec-a9d6ca8c6045/resume=UUID=54bbc334-54d4-48fe-8ce6-c6c06189377e/g' /etc/default/grub
+  736  grep resume /etc/default/grub
+  737  sudo update-grub && sudo update-initramfs -u -k all && sudo reboot
+  738  sudo systemctl hibernate
+  739  sudo dmesg | grep -i "resume\|hibernate\|swap" | tail -20
+  740  sudo blkid /dev/nvme0n1p2
+  741  sudo nano /etc/systemd/sleep.conf.d/hibernate.conf
+  742  sudo mkdir -p /etc/systemd/sleep.conf.d/
+  743  sudo nano /etc/systemd/sleep.conf.d/hibernate.conf
+  744  sudo systemd-analyze --no-pager hibernate
+  745  sudo journalctl -b | grep -i "hibernate\|resume\|swap" | tail -30
+  746  sudo grep -A2 "linux.*vmlinuz" /boot/grub/grub.cfg | head -20
+  747  sudo cat /etc/default/grub
+  748  sudo sed -i "s|GRUB_CMDLINE_LINUX_DEFAULT=.*|GRUB_CMDLINE_LINUX_DEFAULT='quiet splash noautomount cryptdevice=UUID=54bbc334-54d4-48fe-8ce6-c6c06189377e:luks resume=UUID=54bbc334-54d4-48fe-8ce6-c6c06189377e resume_offset=7490631'|" /etc/default/grub
+  749  sudo grep CMDLINE /etc/default/grub
+  750  sudo update-grub && sudo update-initramfs -u -k all && sudo reboot
+  751  sudo systemctl hibernate
+  752  sudo grep -m1 "linux.*vmlinuz" /boot/grub/grub.cfg
+  753  sudo blkid /dev/mapper/luks-54bbc334-54d4-48fe-8ce6-c6c06189377e
+  754  sudo sed -i "s|resume=UUID=54bbc334-54d4-48fe-8ce6-c6c06189377e|resume=/dev/mapper/luks-54bbc334-54d4-48fe-8ce6-c6c06189377e|" /etc/default/grub
+  755  sudo grep CMDLINE /etc/default/grub
+  756  sudo anonsurf stop
+  757  sudo update-grub && sudo reboot
+  758  sudo systemctl hibernate
+  759  sudo systemctl hibernate --dry-run 2>&1
+  760  sudo cat /sys/power/resume
+  761  sudo cat /sys/power/resume_offset
+  762  sudo swapon --show
+  763  systemd-detect-virt
+  764  ls -la /dev/mapper/luks-54bbc334-54d4-48fe-8ce6-c6c06189377e
+  765  echo 253:0 | sudo tee /sys/power/resume
+  766  echo 7490631 | sudo tee /sys/power/resume_offset
+  767  echo disk | sudo tee /sys/power/state
+  768  cat /boot/config-$(uname -r) | grep -i "HIBERNATION\|SUSPEND_TO_DISK"
+  769  uname -r
+  770  su 
+  771  su -
+  772  sudo anonsurf stop
+  773  sudo apt update && sudo apt upgrade firefox
+  774  apt list --installed | grep firefox
+  775  sudo apt update && sudo apt safe-upgrade firefox-esr firefoxpwa
+  776  sudo apt-get update && sudo apt-get safe-upgrade firefox-esr firefoxpwa
+  777  sudo aptitude safe-upgrade firefox-esr firefoxpwa
+  778  sudo apt-get install aptitude
+  779  sudo apt-get upgrade firefox-esr firefoxpwa
+  780  curl -sS https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  781  echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+  782  curl -sS https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+  783  echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+  784  sudo apt-get update && sudo apt-get install spotify-client
+  785  free -h
+  786  swapon --show
+  787  cat /proc/cmdline
+  788  sudo btrfs inspect-internal map-swapfile /swapfile
+  789  sudo nano /etc/default/grub
+  790  sudo update-grub
+  791  sudo reboot
+  792  cat /proc/cmdline
+  793  sudo anonsurf stop
+  794  sudo nano /usr/share/applications/spotify.desktop
+  795  pkill spotify
+  796  spotify --force-device-scale-factor=0.5
+  797  sudo nano /usr/share/applications/spotify.desktop
+  798  grep -n "Exec" /usr/share/applications/spotify.desktop
+  799  cat /usr/share/applications/spotify.desktop
+  800  sudo nano /usr/share/applications/spotify.desktop
+  801  cat /sys/power/state
+  802  cat /sys/power/disk
+  803  sudo systemctl suspend
+  804  echo shutdown | sudo tee /sys/power/disk
+  805  echo disk | sudo tee /sys/power/state
+  806  sudo nano /etc/systemd/sleep.conf.d/hibernate.conf
+  807  sudo systemctl suspend
+  808  sudo chmod 755 /sys/power/state 2>/dev/null; echo disk | sudo tee /sys/power/state
+  809  sudo systemctl status systemd-logind
+  810  loginctl show-session $(loginctl | grep thobad | awk '{print $1}') | grep -i "sleep\|hibernate\|idle"
+  811  loginctl show-session $(loginctl | grep thobad | awk '{print $1}') | grep -i "Can"
+  812  cat /etc/systemd/logind.conf
+  813  loginctl list-sessions
+  814  ls /etc/polkit-1/localauthority/50-local.d/
+  815  ls /etc/polkit-1/rules.d/
+  816  sudo cat /etc/polkit-1/localauthority/50-local.d/hibernate.pkla
+  817  polkitd --version
+  818  sudo nano /etc/polkit-1/localauthority/50-local.d/hibernate.pkla
+  819  sudo systemctl restart polkit
+  820  sudo systemctl suspend
+  821  sudo systemctl status polkit
+  822  dpkg -l policykit* polkit* 2>/dev/null | grep ^ii
+  823  sudo mkdir -p /etc/polkit-1/rules.d
+  824  sudo nano /etc/polkit-1/rules.d/85-suspend-hibernate.rules
+  825  sudo systemctl restart polkit
+  826  sudo systemctl suspend
+  827  groups thobad
+  828  sudo usermod -aG users thobad
+  829  sudo reboot
+  830  sudo anonsurf start
+  831  sudo systemctl suspend
+  832  sudo nano /etc/polkit-1/rules.d/85-suspend-hibernate.rules
+  833  sudo systemctl restart polkit
+  834  sudo systemctl suspend
+  835  sudo systemctl restart polkit
+  836  echo disk | sudo tee /sys/power/state
+  837  sudo dmesg | tail -20
+  838  cat /sys/power/disk
+  839  echo shutdown | sudo tee /sys/power/disk && echo disk | sudo tee /sys/power/state
+  840  echo "alias hibernate='echo shutdown | sudo tee /sys/power/disk && echo disk | sudo tee /sys/power/state'" >> ~/.bashrc && source ~/.bashrc
+  841  nano ~/.bashrc
+  842  source ~/.bashrc
+  843  tail -5 ~/.bashrc
+  844  sed -i "/alias hibernate/d" ~/.bashrc
+  845  cat >> ~/.bashrc << 'EOF'
+  846  alias hibernate='echo shutdown | sudo tee /sys/power/disk && echo disk | sudo tee /sys/power/state'
+  847  EOF
+  848  source ~/.bashrc
+  849  hibernate
+  850  source ~/.bashrc hibernate
+  851  source ~/.bashrc
+  852  hibernate
+  853  sudo anonsurf stop
+  854  fire
+  855  sudo anonsurf start
+  856  sudo anonsurf stop
+  857  sudo anonsurf start
+  858  sudo anonsurf stop
+  859  sudo anonsurf start
+  860  sudo anonsurf stop
+  861  hibernate
+  862  sudo anonsurf stop
+  863  sudo anonsurf start
+  864  sudo anonsurf stop
+  865  sudo chattr -i /etc/tor/torrc
+  866  sudo sed -i 's/ExitNodes {us}/ExitNodes {gb}/' /etc/tor/torrc
+  867  sudo chattr +i /etc/tor/torrc
+  868  grep -n "ExitNodes" /etc/tor/torrc
+  869  sudo anonsurf stop
+  870  sudo systemctl restart tor@default
+  871  sudo anonsurf start
+  872  sudo anonsurf stop
+  873  sudo anonsurf start
+  874  curl -s --socks5-hostname 127.0.0.1:9050 https://ipapi.co/json/ | grep -E "ip|country_name"
+  875  hibernate
+  876  sudo anonsurf start
+  877  sudo anonsurf stop
+  878  hibernate
+  879  echo 6442450944 | sudo tee /sys/power/image_size
+  880  echo lz4 | sudo tee /sys/power/hibernate_compressor 2>/dev/null || echo "not supported"
+  881  hibernate
+  882  go run /cmd/server
+  883  go ru.  /cmd/server
+  884  go run ./cmd/server
+  885  sudo apt update
+  886  hibernate
+  887  sudo anonsurf start
+  888  sudo anonsurf stop
+  889  sudo anonsurf start
+  890  grep -n "ExitNodes\|StrictNodes" /etc/tor/torrc
+  891  lsattr /etc/tor/torrc
+  892  sudo anonsurf changeid
+  893  curl -s --socks5-hostname 127.0.0.1:9050 https://ipapi.co/json/ | grep -E "ip|country_name"
+  894  curl --socks5-hostname 127.0.0.1:9050
+  895  curl -s --socks5-hostname 127.0.0.1:9050 https://ipapi.co/json/ | grep -E "ip|country_name"
+  896  sudo anonsurf status
+  897  sudo apt-get install code -y
+  898  code ~/ai-engineering
+  899  exit
+  900  cd ~/ai-engineering
+  901  code ~/ai-engineering
+  902  code .
+  903  /home/thobad/ai-engineering and
+  904  https://ipapi.co/json/
+  905  grep -n "TransPort\|DNSPort" /etc/tor/torrc
+  906  https://ipapi.co/json/
+  907  python --version
+  908  sudo apt-get install python3-pip -y
+  909  pip3 install notebook --nreak-system-package
+  910  pip3 install notebook --break-system-packages
+  911  pip3 install scikit-learn pandas numpy matplotlib seaborn --break-system-packages
+  912  python3 -c 'import sklearn, pandas, numpy, matplotlib; print("All good")'
+  913  sudo apt-get install python3-pip -y
+  914  jupyter notebook
+  915  sudo anonsurf stop
+  916  grep -n "SetY" /usr/share/plymouth/themes/parrot6/parrot6.script
+  917  find /etc/plymouth /usr/share/plymouth -name "*.script" 2>/dev/null
+  918  grep -r "plymouth" /etc/crypttab
+  919  cat /etc/crypttab
+  920  grep -r "HOOKS" /etc/initramfs-tools/initramfs.conf
+  921  cat /etc/initramfs-tools/initramfs.conf
+  922  grep -r "HOOKS" /etc/initramfs-tools/conf.d/ 2>/dev/null
+  923  ls /etc/initramfs-tools/conf.d/
+  924  sudo anonsurf stop
+  925  hibernate
+  926  sudo anonsurf stop
+  927  sudo anonsurf start
+  928  fir
+  929  hibernate
+  930  sudo anonsurf stop
+  931  sudo anonsurf start
+  932  python3 day4_classification.py
+  933  cd ~/ai-engineering/phase-1-ml-fundamentals
+  934  python3 day4_classification.py
+  935  git add .
+  936  git commit -m "Day 4 - classification with breast cancer dataset"
+  937  git push]
+  938  git push
+  939  touch day5_messy_data_examples.py
+  940  python3 day5_messy_data_examples.py
+  941  git add .
+  942  git commit -m "Week 1 complete - regression, classification, messy data examples"
+  943  git push
+  944  cd .
+  945  cd ..
+  946  mkdir -p ~/ai-engineering/phase-2-portfolio-projects/spam-classifier
+  947  cd ~/ai-engineering/phase-2-portfolio-projects/spam-classifier
+  948  touch day1_spam_classifier.py
+  949  python3 day1_spam_classifier.py
+  950  wget https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip
+  951  unzip smsspamcollection.zip
+  952  python3 day1_spam_classifier.py
+  953  git add .
+  954  git commit -m "Week 2 Day 1 - Spam classifier with real SMS data"
+  955  git push
+  956  cd ..
+  957  git add .
+  958  git commit -m "Week 2 Day 1 - Spam classifier with real SMS data - 98% accuracy"
+  959  git push
+  960  touch .gitignore
+  961  git add .gitignore
+  962  git commit -m "Add gitignore to prevent credential leaks"
+  963  git push
+  964  cat ~/.ssh/id_ed25519.pub
+  965  ssh -T github.com
+  966  ssh -T git@github.com
+  967  git push
+  968  mkdir -p projects/spam-classifier
+  969  mkdir -p projects/housing-price-predictor
+  970  mkdir -p projects/spam-classifier/data
+  971  mv phase-2-portfolio-projects/spam-classifier/day1_spam_classifier.py projects/spam-classifier/main.py
+  972  mv phase-2-portfolio-projects/spam-classifier/SMSSpamCollection projects/spam-classifier/data/
+  973  mv phase-1-ml-fundamentals/day2_linear_regression.py projects/housing-price-predictor/linear_regression.py
+  974  ls ~/ai-engineering/phase-1-ml-fundamentals/
+  975  mv phase-1-ml-fundamentals/day3_cross_validation.py projects/housing-price-predictor/model_tuning.py
+  976  mv phase-1-ml-fundamentals/day4_classification.py projects/housing-price-predictor/classification_example.py
+  977  mv phase-1-ml-fundamentals/day1_intro_to_ml.ipynb projects/housing-price-predictor/
+  978  mv phase-2-portfolio-projects/spam-classifier/day1_spam_classifier.py projects/spam-classifier/main.py
+  979  ls ~/ai-engineering/phase-2-portfolio-projects/spam-classifier/
+  980  find ~/ai-engineering -name "*spam*" -type f
+  981  rm -rf phase-1-ml-fundamentals phase-2-portfolio-projects
+  982  ls -R projects/
+  983  cd ~/ai-engineering/projects/housing-price-predictor
+  984  ls
+  985  mv classification_example.py breast_cancer_classifier.py
+  986  mv day1_intro_to_ml.ipynb exploratory_analysis.ipynb
+  987  mv model_tuning.py model_optimization.py
+  988  cd ~/ai-engineering/projects/spam-classifier
+  989  touch README.md
+  990  cd ~/ai-engineering/projects/housing-price-predictor
+  991  touch README.md
+  992  cd..
+  993  cd ..
+  994  git add .
+  995  git commit -m "Restructure to professional portfolio layout with README files"
+  996  git push
+  997  cd ~/ai-engineering/projects/spam-classifier
+  998  touch tuning.py
+  999  python3 tuning.py
+ 1000  cd ..
+ 1001  git add .
+ 1002  git commit -m "Week 2 Day 2 - hyperparameter tuning with GridSearchCV"
+ 1003  git push
+ 1004  python3 tuning.py
+ 1005  cd ~/ai-engineering/projects/spam-classifier
+ 1006  python3 tuning.py
+ 1007  python3 tuning.py 2>&1 | grep -A 10 "Final Results"
+ 1008  cd ..
+ 1009  git add .
+ 1010  git commit -m "Week 2 Day 2 - spam classifier tuned, 98% accuracy, perfect spam precision"
+ 1011  git push
+ 1012  cd ~/ai-engineering/projects/spam-classifier
+ 1013  touch predict.py
+ 1014  python3 predict.py
+ 1015  python3 predict.py 2>&1 | grep -A 10 "Predictions"
+ 1016  python3 predict.py 2>&1 | grep "\[HAM\]\|\[SPAM\]"
+ 1017  python3 predict.py | tail -10
+ 1018  cd ..
+ 1019  git add .
+ 1020  git commit -m "Week 2 Day 3 - model saved and tested on real messages"
+ 1021  git push
+ 1022  pip3 install fastapi uvicorn --break-system-packages
+ 1023  cd ~/ai-engineering/projects/spam-classifier
+ 1024  pip3 install fastapi uvicorn --break-system-packages
+ 1025  python3 -m uvicorn api:app --reload
+ 1026  hibernate
+ 1027  sudo anonsurf stop
+ 1028  history > terminal_history.txt

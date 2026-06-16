@@ -1,36 +1,40 @@
 # SMS Spam Classifier
 
-A machine learning classifier that identifies spam SMS messages with 98% accuracy.
+A machine learning API that classifies SMS messages as spam or legitimate with 98% accuracy.
 
 ## Overview
 
-This project uses a Random Forest classifier with TF-IDF vectorization to classify SMS messages as spam or legitimate. Trained on the UCI SMS Spam Collection dataset (5,572 messages).
+Built with Random Forest and TF-IDF vectorization, trained on the UCI SMS Spam Collection dataset (5,572 messages). Served as a REST API using FastAPI.
 
 ## Results
 
-- **Accuracy**: 98%
-- **Spam Detection Rate**: 89%
-- **False Positive Rate**: 0.1%
+| Metric | Score |
+|--------|-------|
+| Accuracy | 98% |
+| Spam Precision | 100% |
+| Ham Recall | 100% |
 
-## Model Performance
-          precision    recall  f1-score
-    ham       0.98      0.98      0.98
-   spam       0.98      0.89      0.93
-accuracy                           0.98
+## API Usage
 
-## Files
-
-- `main.py` - Complete classifier pipeline
-- `data/SMSSpamCollection` - Training dataset
-
-## How to Use
-
+Start the server:
 ```bash
-python3 main.py
+python3 -m uvicorn api:app --reload
 ```
 
-## Technologies
+Make a prediction:
+```bash
+curl -X POST "http://127.0.0.1:8000/predict" \
+-H "Content-Type: application/json" \
+-d '{"text": "Your message here"}'
+```
 
-- Python 3
-- scikit-learn (RandomForest, TfidfVectorizer)
-- pandas
+Response:
+```json
+{
+  "message": "Your message here",
+  "prediction": "spam",
+  "is_spam": true
+}
+```
+
+## Project Structure
