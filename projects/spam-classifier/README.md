@@ -38,3 +38,28 @@ Response:
 ```
 
 ## Project Structure
+
+spam-classifier/
+
+├── api.py          # FastAPI server
+
+├── main.py         # Training pipeline
+
+├── tuning.py       # Hyperparameter tuning
+
+├── predict.py      # Prediction script
+
+├── model.pkl       # Saved model
+
+├── vectorizer.pkl  # Saved vectorizer
+
+└── data/
+
+└── SMSSpamCollection
+
+## Technologies
+
+- Python 3
+- scikit-learn (RandomForest, TfidfVectorizer, GridSearchCV)
+- FastAPI + Uvicorn
+- pandas, pickle
